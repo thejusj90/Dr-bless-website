@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://drblessin.com/</loc></url>
-  <url><loc>https://drblessin.com/treatments/</loc></url>
-  <url><loc>https://drblessin.com/dental-implants/</loc></url>
-  <url><loc>https://drblessin.com/gum-treatment/</loc></url>
-  <url><loc>https://drblessin.com/root-canal/</loc></url>
-  <url><loc>https://drblessin.com/dr-blessin-mathew/</loc></url>
+  <url><loc>https://drblessin.com/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://drblessin.com/treatments/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://drblessin.com/dr-blessin-mathew/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://drblessin.com/contact/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://drblessin.com/dental-implants/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://drblessin.com/gum-treatment/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://drblessin.com/root-canal/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://drblessin.com/teeth-cleaning/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://drblessin.com/teeth-whitening/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://drblessin.com/braces-clear-aligners/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://drblessin.com/tooth-extraction/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://drblessin.com/dentures/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://drblessin.com/bleeding-gums/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://drblessin.com/tooth-pain/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://drblessin.com/missing-tooth/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://drblessin.com/sensitive-teeth/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://drblessin.com/bad-breath/</loc><lastmod>2026-09-10</lastmod></url>
 </urlset>
