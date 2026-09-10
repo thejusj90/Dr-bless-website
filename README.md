@@ -3,16 +3,10 @@
 Static single-file website for Dr. Blessin's Dental Studio (Margao, Goa), built for GitHub Pages hosting.
 
 ## Deploy to GitHub Pages
-
-1. Create a new GitHub repository.
-2. Upload `index.html` and `README.md` to the repository root.
-3. In **Settings → Pages**, set **Source** to **Deploy from a branch**.
-4. Choose the **main** branch and **/(root)** folder, then save.
-5. GitHub Pages will publish the site at `https://<username>.github.io/<repository>/`.
-
-## Notes
-- The site is mobile-first and uses a white background with the existing teal palette.
-- SEO title, meta description, LocalBusiness/Dentist JSON-LD, mobile sticky actions, and semantic sections are included.
+1. Push this repo to GitHub (see commands below).
+2. Repo → Settings → Pages → Source: `main` branch, `/ (root)`.
+3. Site goes live at `https://<your-username>.github.io/dr-blessin-dental-website/`
+4. Optional: add a `CNAME` file with your custom domain (e.g. `drblessin.com`) to use it instead of the github.io URL.
 
 ## Still open before launch
 - Real clinic/doctor photography (current images are temporary placeholders)
